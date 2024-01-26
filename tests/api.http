@@ -1,0 +1,11 @@
+### Invalid zipcode
+
+GET http://localhost:8080/temp/city/123
+
+### Valid zipcode 1
+
+GET http://localhost:8080/temp/city/01031970
+
+### Valid zipcode 2
+
+GET http://localhost:8080/temp/city/01031-970
